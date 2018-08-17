@@ -1,20 +1,17 @@
 ---
-title: "Teaching experience 2"
+title: "Stellar Interiors and Evolution"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
+type: "Graduate Course"
+permalink: /teaching/2018-fall
+venue: "University of Hawaii, Institute for Astronomy"
+date: 2018
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
 Heading 1
 ======
 
-Heading 2
+Topics
 ======
 
-Heading 3
-======
